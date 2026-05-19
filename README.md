@@ -1,1 +1,1 @@
-# Disease_Detection_AI
+# Disease_Detection
